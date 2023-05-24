@@ -73,7 +73,7 @@ button{
 }
 
 .nuevo-juego-popup{
-    background-color: white;
+    /*background-color: rgb(204, 22, 22);*/
     position: absolute;
     left: 0;
     top: 0;
